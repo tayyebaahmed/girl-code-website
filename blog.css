@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;  
+}
+
+.navbar {
+    background-color: blueviolet;
+    opacity: 0.8;
+    height: 70px;
+}
+
+.logo {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.nav-links {
+    list-style: none;
+    margin-right: 40px;
+    margin-top: -25px;
+}
+
+.nav-links a{
+    text-decoration: none;
+    float: right;
+    color: black;
+    font-size: 18px;
+    margin-right: 40px;
+    padding: 5px;
+}
+
+#home {
+    background-image: url("girls-studying.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:  400px;
+}
